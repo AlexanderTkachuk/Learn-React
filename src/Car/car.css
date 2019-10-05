@@ -1,0 +1,20 @@
+.input.green {
+    color: green;
+    border: 1px solid green;
+}
+.input.green::placeholder {
+    color: green;
+}
+
+.input.red {
+    color: red;
+    border: 1px solid red;
+}
+.input.red::placeholder {
+    color: red;
+}
+
+.input.bold {
+    border: 2px solid green;
+    font-weight: bold;
+}
